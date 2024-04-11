@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-11 at 18 31 45](https://github.com/bxstonpk/flutter_province_sakaeo/assets/122713666/36a09179-90c4-450f-83aa-75eecab11fad)" style="width=45px" />
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-11 at 18 31 45](https://github.com/bxstonpk/flutter_province_sakaeo/assets/122713666/36a09179-90c4-450f-83aa-75eecab11fad)
